@@ -32,3 +32,35 @@ nav a:hover{
     color:yellow;
 }
 
+
+/* Hero Section */
+.hero{
+    background:#d4f5d4;
+    text-align:center;
+    padding:80px 20px;
+}
+
+.hero h2{
+    font-size:40px;
+    margin-bottom:15px;
+}
+
+.hero p{
+    font-size:18px;
+    margin-bottom:20px;
+}
+
+.btn{
+    display:inline-block;
+    background:#4CAF50;
+    color:white;
+    text-decoration:none;
+    padding:12px 25px;
+    border-radius:5px;
+}
+
+.btn:hover{
+    background:#2E7D32;
+}
+
+
