@@ -98,3 +98,24 @@ nav a:hover{
     margin-bottom:10px;
 }
 
+/* Why Choose Us */
+.why{
+    background:white;
+    text-align:center;
+    padding:40px;
+}
+
+.why h2{
+    color:#4CAF50;
+    margin-bottom:20px;
+}
+
+.why ul{
+    list-style:none;
+}
+
+.why li{
+    margin:10px 0;
+    font-size:18px;
+}
+
