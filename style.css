@@ -63,4 +63,15 @@ nav a:hover{
     background:#2E7D32;
 }
 
+/* About */
+.about{
+    text-align:center;
+    padding:40px 20px;
+}
+
+.about h2{
+    color:#4CAF50;
+    margin-bottom:15px;
+}
+
 
